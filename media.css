@@ -734,6 +734,7 @@
         & .menu-bottom {
             & h2 {
                 font-size: 2.5rem;
+                margin-left: 13px;
             }
         }
     }
@@ -773,6 +774,15 @@
     .testimonial-bottom .certificate-image {
         width: 40%;
         height: auto;
+    }
+    .confidential-img{
+        display: none;
+    }
+    .main-heading{
+        margin-left: 0px;
+    }
+    .review-content .main-heading {
+        margin-left: 0px;
     }
 }
 
