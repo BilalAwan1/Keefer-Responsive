@@ -738,6 +738,16 @@
             }
         }
     }
+    .form {
+        & .form-group {
+            & div {
+                & input {
+                    margin-right: 34px;
+                    margin-top: 3px;
+                }
+            }
+        }
+    }
 
     .menu-link .link-content {
         & h3 {
